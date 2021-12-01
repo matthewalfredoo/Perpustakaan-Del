@@ -24,7 +24,13 @@ public abstract class Akun {
 		this.password = password;
 	}
 	
-	public abstract void login();
-	public abstract void register();
-	public abstract void editAkun();
+	public static void login() {
+		// TODO
+	}
+	public static void register() {
+		// TODO
+	}
+	public static void editAkun() {
+		
+	}
 }
